@@ -22,7 +22,7 @@ Two build layouts are published here.
 3. Accept the UAC prompt, then finish the wizard.
 4. Start **Process Optimizer** from the Start Menu.
 
-Optional flags:
+Optional flag:
 
 ```
 msiexec /i ProcessOptimizer.msi INSTALLDESKTOPSHORTCUT=0
@@ -55,7 +55,7 @@ Compare against the table above.
 
 ## Source
 
-The application source lives in a separate private repository. This repository carries the installers only.
+The application source is not published in this repository. This repository carries the installers only.
 
 ## License
 
